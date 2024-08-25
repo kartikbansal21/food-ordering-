@@ -4,10 +4,6 @@ Welcome to the Momo Order Website! This project is a simple web application buil
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
